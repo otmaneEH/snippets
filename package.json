@@ -524,7 +524,7 @@
 		"y18n": ">=4.0.1"
 	},
 	"dependencies": {
-		"@types/mustache": "^4.0.1",
+		"@types/mustache": "^4.2.5",
 		"mustache": "^4.0.1"
 	}
 }
